@@ -95,9 +95,13 @@ dummy_d = {
     'key2': {
         'key21': 21,
         'key22': 22,
-    }
+    },
 }
 ```
+
+About:
+
+- A coma on the line of the last item of a dictionary (not json-like):  reduce git-diff when adding an extra argument
 
 
 ## Function calls
