@@ -19,6 +19,7 @@ Here are good overall shortforms:
 | crit | criticality |
 | elmt | element |
 | elt | element |
+| eval | evaluate / evaluation |
 | frmt | format |
 | fst | first |
 | lg | long |
